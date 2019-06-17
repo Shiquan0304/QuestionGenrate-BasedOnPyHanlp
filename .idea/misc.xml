@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7" project-jdk-type="Python SDK" />
+  <component name="YapfSettings">
+    <option name="executablePath" value="C:\Users\YangZhi\AppData\Local\Programs\Python\Python37\Scripts\yapf.exe" />
+    <option name="formatOnSave" value="true" />
+  </component>
+</project>
